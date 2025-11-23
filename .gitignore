@@ -1,0 +1,43 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Python packaging / build
+*.egg-info/
+build/
+dist/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+*.coverage
+htmlcov/
+.cache/
+
+# Editors
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# App data
+presets_data/
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
